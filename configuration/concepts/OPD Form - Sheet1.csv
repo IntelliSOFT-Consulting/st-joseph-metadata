@@ -1,0 +1,18 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,Normal low,Normal high,Allow decimals,Display precision,_version:1,_order:1,Data class,Data type,Answers
+ad45fbf2-9383-45b9-8e5f-412f4aea7fd1,,OPD Date,Date,,,,,,,,,Question,Date,
+6ef2d102-b3ac-45fd-bd3d-5c1d09651a0b,,OPD Number,OPD No.,,,,,,,,,Question,Numeric,
+b8d76208-28ec-4ee0-90df-817d610d16a7,,Revisit,,,,,,,,,,Question,Boolean,
+ebd21b37-884c-4423-9822-e25e816125e2,,Danger Signs,DangerSigns,,,,,,,,,Question,Text,
+4f758b60-f322-435c-9d88-2c6e5fb25883,,"Visual Acuity, Right Eye","Visual Acuity, Right Eye",,,,,,,,,Question,Text,
+c5c8e4e5-41e4-4301-bbbc-6a7c9431e755,,"Visual Acuity, Left Eye","Visual Acuity, Left Eye",,,,,,,,,Question,Text,
+eee0628f-eeff-4305-9a3b-8ba6c12d0191,,Duration of Illness,Duration of Illness,,,,,,,,,Question,Text,
+ed6b61d0-36d7-42d9-acde-eeb9aebccb78,,Diagnosis/Classification,Diagnosis/Classification,,,,,,,,,Question,Text,
+7acfafa4-f19b-485e-97a7-c9e002dbe37a,,Positive,,,,,,,,,,Misc,N/A,
+718b4589-2a11-4355-b8dc-aa668a93e098,,Negative,,,,,,,,,,Misc,N/A,
+d8f6c308-a622-48f1-84d7-cd3c9dddb2ed,,HIV Status,HIV Status,,,,,,,,,Question,Coded,Positive;Negative
+7dca5e0c-8bbe-444b-90f1-35d6a3182d7e,,OPD Treatment,Treatment,,,,,,,,,Misc,Text,
+eb077569-3bea-4cf4-a96d-a289e1d5abd5,,OPD Followup,Followup,,,,,,,,,Question,Boolean,
+01055fa3-b13a-44f5-b005-ca4b1105fea0,,Referral,Referral,,,,,,,,,Question,Boolean,
+d7951f1e-9fd8-4c07-a7f5-62f7e4467bd7,,Receipt Number,Receipt Number,,,,,,,,,Question,Text,
+b918d3fe-b90d-464c-b06c-d748091d1e50,,OPD Remarks,Remarks,,,,,,,,,Misc,Text,
+2c5758c3-e592-4912-81a0-3d0559689e5f,,OPD Form,,,,,,,,,,Misc,N/A,

@@ -1,0 +1,6 @@
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:2
+d8f6c308-a622-48f1-84d7-cd3c9dddb2ed,Positive;Negative,,HIV Status,HIV Status,Question,Coded,,
+b8d76208-28ec-4ee0-90df-817d610d16a7,,,Revisit,,Question,Boolean,,
+01055fa3-b13a-44f5-b005-ca4b1105fea0,,,Referral,Referral,Question,Boolean,,
+eb077569-3bea-4cf4-a96d-a289e1d5abd5,,,OPD Followup,Followup,Question,Boolean,,
+2c5758c3-e592-4912-81a0-3d0559689e5f,,"OPD Date;OPD Number;Danger Signs;Visual Acuity, Right Eye;Visual Acuity, Left Eye;Duration of Illness;Diagnosis/Classification;OPD Treatment;Receipt Number;OPD Remarks",OPD Form,,Misc,N/A,,
